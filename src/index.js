@@ -18,11 +18,11 @@ function getMenu (options) {
         ],
         marionsMenu: [
             {
-                text: 'Rice Nyama: 300',
+                text: 'Ugali Beef: 250',
                 value: 1,
             },
             {
-                text: 'Ugali managu: 180',
+                text: 'Matoke: 180',
                 value: 2,
             },
         ]
